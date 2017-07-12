@@ -1,0 +1,17 @@
+/*table*/
+.site-table tbody tr td {text-align: center;}
+.site-table tbody tr td .layui-btn+.layui-btn{margin-left: 0px;}
+.table-hover tbody tr:hover{ background-color: #EEEEEE; }
+
+.admin-table{
+	
+}
+.admin-table .layui-form-checkbox{
+	margin-top: 0;
+	height: 20px;
+	line-height: 20px;
+}
+.admin-table-textarea-width
+{
+	width:600px;
+}
